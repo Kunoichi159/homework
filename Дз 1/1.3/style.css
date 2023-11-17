@@ -1,0 +1,14 @@
+body {
+    font-family: "Arial";
+    font-size: 80pt;
+    text-align: center;
+}
+
+.post1 {
+    margin: 70px 10px 10px 10px;
+}
+
+.post2 {
+    font-weight: bold;
+    margin: 100px 10px 10px 10px;
+}

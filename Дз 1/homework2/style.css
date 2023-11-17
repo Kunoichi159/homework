@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+}
+
+.post {
+    margin: 300px 300px;
+    color: rgb(232, 120, 0);
+}
+
+.t1 {
+    font-family: "Bahnschrift Light";
+    font-size: 24pt;
+    text-align: center;
+    margin: 0px;
+}
+
+.t2 {
+    font-family: "Bahnschrift Condensed";
+    font-size: 20pt;
+    margin: 10px 30px;
+    font-weight: bold;
+    text-align: right;
+}

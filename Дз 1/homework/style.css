@@ -1,0 +1,11 @@
+body {
+    font-family: "Arial";
+    font-size: 20pt;
+    line-height: 1.30;
+    margin: 40px 70px;
+}
+
+a {
+    color: rgb(58, 163, 255);
+    text-decoration: none;
+}

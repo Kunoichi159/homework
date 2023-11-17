@@ -1,0 +1,17 @@
+body {
+    font-family: "segoe script";
+    font-size: 30pt;
+    text-align: center;
+    background-image: url('https://phonoteka.org/uploads/posts/2021-04/1618482071_57-p-fon-tetradnii-list-v-lineiku-57.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.t1 {
+    margin: 170px 10px 10px 10px;
+}
+
+.t2 {
+    font-weight: bold;
+    margin: 10px;
+}

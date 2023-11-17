@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(32, 32, 32);
+}
+
+.post {
+    padding: 15px;
+    border: 2px;
+}
+
+p {
+    font-family: "Roboto";
+    font-size: 43pt;
+    margin: 170px 10px 10px 10px;
+    color: whitesmoke;
+}
+
+.post__image {
+    width: 600px;
+    float: left;
+    margin: 20px 100px 20px 20px;
+    border-radius: 65%;
+}
+
+.post__image1 {
+    width: 220px;
+    float: right;
+    margin: 10px 80px 10px 10px;
+    filter: invert(100%);
+}

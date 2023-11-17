@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+
+.post {
+    padding: 15px;
+    border: 2px;
+}
+
+p {
+    font-family: "Trebuchet MS";
+    font-size: 40pt;
+    margin: 170px 10px 10px 10px;
+    color: rgb(32, 32, 32);
+}
+
+.post__image {
+    width: 470px;
+    float: left;
+    margin: 10px 150px 10px 70px;
+    border-radius: 20%;
+}
