@@ -1,0 +1,59 @@
+.box {
+        width: 600px;
+        background-color: azure;
+}
+
+.img {
+        
+        margin: 20px 40px 0px 40px;
+        width: 170px;
+        height: 170px;
+        object-fit: cover;
+}
+
+.boxic {
+        display: inline-block;
+       line-height: 100%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.boxcolor {
+        width: 70px;
+        margin-bottom: 30px;
+        color: white;
+        font-size: x-small;
+        text-align: center;
+}
+
+.author {
+        color: gray;
+        font-size: small;
+        margin: 70px 0px 0px 0px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box__travel {
+        font-style: bold;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         
+          background-color: rgb(74, 0, 130);
+}
+
+.box__life {
+         
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          background-color: rgb(24, 175, 10);
+}
+
+.box__cooking {
+          
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          background-color: rgb(48, 197, 238);
+}
+
+.box__wild {
+         
+          margin-top: -130px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          background-color: rgb(235, 89, 4);
+}
