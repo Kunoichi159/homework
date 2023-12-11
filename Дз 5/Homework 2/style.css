@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+  background-color: beige;
+}
+
+.message {
+  width: 400px;
+  height: 104px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.text-container {
+  width: 271px;
+  height: 104px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 129px;
+  border-radius: 12px;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.Michael {
+  width: 145px;
+  color: rgba(133,137,140,1);
+  position: absolute;
+  top: 18px;
+  left: 144px;
+  font-family: "Barlow";
+  font-weight: Medium;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+
+.Crazy {
+  width: 234px;
+  color: rgba(196,136,224,1);
+  position: absolute;
+  top: 43px;
+  left: 144px;
+  font-family: "Barlow";
+  font-weight: Bold;
+  font-size: 17px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+
+.Why {
+  width: 66px;
+  color: rgba(134,146,157,1);
+  position: absolute;
+  top: 81px;
+  left: 311px;
+  font-family: "Barlow";
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+
+.Ago {
+  width: 56px;
+  color: rgba(134,146,157,1);
+  position: absolute;
+  top: 80px;
+  left: 144px;
+  font-family: "Barlow";
+  font-weight: Bold;
+  font-size: 9px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+
+.gradient {
+  width: 118px;
+  height: 104px;
+  background: linear-gradient(90deg, #A1C4FD 0%, #C2E9FB 100%);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 12px;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.close {
+  margin-left: 380px;
+  margin-top: 6px;
+  position: relative;
+  z-index: 10;
+}
+
+.boy {
+  margin-left: 26px;
+  margin-top: -8px;
+  position: relative;
+  z-index: 10;
+}
